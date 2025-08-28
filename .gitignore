@@ -245,3 +245,6 @@ ipython_config.py
 *_logs/
 *_output/
 environment/
+
+#ckpt
+*.ckpt
